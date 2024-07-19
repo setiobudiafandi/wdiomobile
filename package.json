@@ -19,11 +19,12 @@
     "@wdio/spec-reporter": "^7.19.7",
     "appium": "^2.0.0-beta.46",
     "appium-uiautomator2-driver": "^2.1.2",
-    "mocha": "^10.6.0"
+    "mocha": "^10.6.0",
+    "wdio-appium-service": "^0.2.3"
   },
   "dependencies": {
-    "chai": "^5.1.1",
     "-": "^0.0.1",
+    "chai": "^5.1.1",
     "g": "^2.0.1",
     "path": "^0.12.7"
   }

@@ -63,6 +63,7 @@ exports.config = {
         'appium:appPackage': "io.appium.android.apis",
         'appium:appActivity': ".ApiDemos",
         'appium:noReset': true,
+        // 'appium:fullReset': true,
         'appium:forceAppLaunch': true
     }],
 
